@@ -1,5 +1,5 @@
 {
-  "alias": ["pmndrs.vercel.app", "poiman.vercel.app"],
+  "alias": ["pomdrs.vercel.app", "poiman.vercel.app"],
   "github": {
     "silent": true
   },
